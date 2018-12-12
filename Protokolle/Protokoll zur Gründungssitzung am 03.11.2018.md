@@ -33,11 +33,11 @@ Für den Mitgliedsbeitrag wurden die folgenden Punkte beschlossen,
 Bis zur ersten Mitgliederversammlung wurden die folgenden vorläufigen Ämter vergeben:
 
 ### 1. Vorsitzender:
-- Florian Lienkamp hat Malte Groth vorgeschlagen
+- Florian Lienkamp hat Moritz Kramer vorgeschlagen
 - Wahlergebnis: keine Gegenstimme, keine Enthaltung
 
 ### 2. Vorsitzender:
-- Malte Groth hat Moritz Kramer vorgeschlagen
+- MMoritz Kramer hat Malte Groth vorgeschlagen
 - Wahlergebnis: keine Gegenstimme, keine Enthaltung
 
 ### Kassenwart
